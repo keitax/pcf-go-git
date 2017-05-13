@@ -1,0 +1,4 @@
+applications:
+  - name: pcf-go-git
+    env:
+      GOPACKAGENAME: pcf-go-git
